@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <script type="module" src="data.js"></script>
+    <script src="data.js"></script>
+    <script type="module" src="date.js"></script>
+    <div>
+      <div id="main">
+        <section>
+          <span id="date"></span>
+          <span id="time"></span>
+        </section>
+
+        <weather-details></weather-details>
+
+        <section>
+          <h1>Incoming Weather Details</h1>
+          <incoming-weather-details></incoming-weather-details>
+        </section>
+      </div>
+    </div>
+
+    <select-city id="change-city" onclick="changeCity()"> </select-city>
+  </body>
+</html>

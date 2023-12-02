@@ -1,0 +1,122 @@
+[
+  {
+    "location": "City 1",
+    "current": {
+      "weather_condition": "Sunny",
+      "wind": "80kph",
+      "temperature": "32°C",
+      "humidity": "70%",
+      "weather_icon": "no"
+    },
+    "succeeding": [
+      {
+        "weather_condition": "Slight Rain",
+        "wind": "80kph",
+        "temperature": "25°C",
+        "humidity": "80%",
+        "weather_icon": "no",
+        "time": "9:30 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "80kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "10:00 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "80kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "10:30 am"
+      },
+      {
+        "weather_condition": "Sunny",
+        "wind": "60kph",
+        "temperature": "32°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "11:00 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "80kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "11:30 am"
+      },
+      {
+        "weather_condition": "Sunny",
+        "wind": "60kph",
+        "temperature": "32°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "12:00 am"
+      }
+    ]
+  },
+  {
+    "location": "City 2",
+    "current": {
+      "weather_condition": "Sunny",
+      "wind": "80kph",
+      "temperature": "32°C",
+      "humidity": "70%",
+      "weather_icon": "no"
+    },
+    "succeeding": [
+      {
+        "weather_condition": "Heavy Rain",
+        "wind": "90kph",
+        "temperature": "25°C",
+        "humidity": "80%",
+        "weather_icon": "no",
+        "time": "9:30 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "80kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "10:00 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "80kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "10:30 am"
+      },
+      {
+        "weather_condition": "Sunny",
+        "wind": "60kph",
+        "temperature": "32°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "11:00 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "80kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "11:30 am"
+      },
+      {
+        "weather_condition": "Sunny",
+        "wind": "60kph",
+        "temperature": "32°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "12:00 am"
+      }
+    ]
+  }
+]
