@@ -60,11 +60,7 @@ function updateWeatherDetails() {
 class WeatherDetails extends HTMLElement {
   connectedCallback() {
     // Check if weatherData has data before trying to access it
-    if (weatherData.length > 0) {
-      updateWeatherDetails();
-    } else {
-      this.innerHTML = `<p>No weather data available</p>`;
-    }
+    updateWeatherDetails();
   }
 }
 
@@ -100,11 +96,7 @@ function updateIncomingWeatherDetails() {
 
 class IncomingWeatherDetails extends HTMLElement {
   connectedCallback() {
-    if (weatherData.length > 0) {
-      updateIncomingWeatherDetails();
-    } else {
-      this.innerHTML = `<p>No weather data available</p>`;
-    }
+    updateIncomingWeatherDetails();
   }
 }
 

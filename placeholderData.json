@@ -62,10 +62,10 @@
   {
     "location": "City 2",
     "current": {
-      "weather_condition": "Sunny",
-      "wind": "80kph",
-      "temperature": "32°C",
-      "humidity": "70%",
+      "weather_condition": "Cloudy",
+      "wind": "70kph",
+      "temperature": "27°C",
+      "humidity": "76%",
       "weather_icon": "no"
     },
     "succeeding": [
@@ -78,7 +78,7 @@
         "time": "9:30 am"
       },
       {
-        "weather_condition": "Cloudy",
+        "weather_condition": "Sunny",
         "wind": "80kph",
         "temperature": "27°C",
         "humidity": "78%",
@@ -96,22 +96,82 @@
       {
         "weather_condition": "Sunny",
         "wind": "60kph",
-        "temperature": "32°C",
-        "humidity": "78%",
+        "temperature": "38°C",
+        "humidity": "75%",
         "weather_icon": "no",
         "time": "11:00 am"
       },
       {
         "weather_condition": "Cloudy",
-        "wind": "80kph",
-        "temperature": "27°C",
+        "wind": "90kph",
+        "temperature": "26°C",
         "humidity": "78%",
         "weather_icon": "no",
         "time": "11:30 am"
       },
       {
         "weather_condition": "Sunny",
+        "wind": "100kph",
+        "temperature": "32°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "12:00 am"
+      }
+    ]
+  },
+  {
+    "location": "City 3",
+    "current": {
+      "weather_condition": "Cloudy",
+      "wind": "75kph",
+      "temperature": "23°C",
+      "humidity": "78%",
+      "weather_icon": "no"
+    },
+    "succeeding": [
+      {
+        "weather_condition": "Sunny",
+        "wind": "90kph",
+        "temperature": "36°C",
+        "humidity": "87%",
+        "weather_icon": "no",
+        "time": "9:30 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "65kph",
+        "temperature": "27°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "10:00 am"
+      },
+      {
+        "weather_condition": "Sunny",
+        "wind": "80kph",
+        "temperature": "37°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "10:30 am"
+      },
+      {
+        "weather_condition": "Sunny",
         "wind": "60kph",
+        "temperature": "38°C",
+        "humidity": "75%",
+        "weather_icon": "no",
+        "time": "11:00 am"
+      },
+      {
+        "weather_condition": "Cloudy",
+        "wind": "90kph",
+        "temperature": "26°C",
+        "humidity": "78%",
+        "weather_icon": "no",
+        "time": "11:30 am"
+      },
+      {
+        "weather_condition": "Sunny",
+        "wind": "100kph",
         "temperature": "32°C",
         "humidity": "78%",
         "weather_icon": "no",
